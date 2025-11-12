@@ -16,7 +16,6 @@ $$
 \end{align}
 $$
 Similarly, to find all possible transitions we simply sum over all transitions from all initial states
-
 $$
 \begin{align}
 \Gamma(\hbar\omega) &= 2\cdot\sum\limits_{\mathbf{k}_{1}} \ \Gamma_{1}{\small (\hbar\omega) }\Big[1-f(\mathbf{k}_{1})\Big] \\

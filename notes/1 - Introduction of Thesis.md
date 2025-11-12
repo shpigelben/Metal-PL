@@ -24,7 +24,7 @@ Non-equilibrium electronic distribution for the above scenario has been derived 
 The valence band is generally anisotropic and when performing interband calculations one has to remain in k-space, which is what we are going to do. 
 
 Once we have established that our calculations in momentum space align with those performed in energy space - both in equilibrium and non-equilibrium settings - we proceed to perform the interband scenario. In the end, hopefully, we will be able to provide a more complete emission spectrum to both cases.
-,
+
 # Gold Nanoparticles
 
 We focus on interband transitions from the X and L points in k-space whose approximate symmetry can be used to simplify calculations. They also account for lion-share of the interband transitions, but not all of them.
@@ -38,5 +38,14 @@ $$
 $$
 
 [^1]: Technically transitions can occur inside the valence band, but these are very unlikely and their contribution at standard cases is negligible.
+
+## TOC
+
+1. intraband comparison
+	1. equilibrium
+	2. non-equilibrium
+2. intreband comparison
+	1. equilibrium
+	2. non-equilibrium
 
 [^2]: Large band gap + Fermi energy is well within the conduction band
