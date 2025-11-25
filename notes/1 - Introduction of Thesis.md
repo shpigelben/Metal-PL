@@ -29,7 +29,7 @@ Once we have established that our calculations in momentum space align with thos
 
 We focus on interband transitions from the X and L points in k-space whose approximate symmetry can be used to simplify calculations. They also account for lion-share of the interband transitions, but not all of them.
 
-![center|300](4.%20Misc/attachments/Pasted%20image%2020251029172425.png)
+![center|300](../../../9.%20Misc/attachments/Pasted%20image%2020251029172425.png)
 
 The overall electronic contribution to emission is therefore given by
 
